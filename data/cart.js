@@ -1,4 +1,4 @@
-const cart = [];
+export const cart = [];
 // data attribute
 // it allows us to attach any info to an element
 // it is another HTML attribute
